@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myreactwebsite/static/css/main.97fbb8dc.css",
-    "main.js": "/myreactwebsite/static/js/main.c6fdaae3.js",
+    "main.js": "/myreactwebsite/static/js/main.0f85774d.js",
     "static/media/hero.jpg": "/myreactwebsite/static/media/hero.599a9d3e07e5fc0f106e.jpg",
     "static/media/hero4.png": "/myreactwebsite/static/media/hero4.569ec4aa2f7c9e4760ef.png",
     "static/media/abt.png": "/myreactwebsite/static/media/abt.89f78f76e86106f63703.png",
@@ -10,10 +10,10 @@
     "static/media/ethicalhacking.jpg": "/myreactwebsite/static/media/ethicalhacking.e740adb9ea38567025f3.jpg",
     "index.html": "/myreactwebsite/index.html",
     "main.97fbb8dc.css.map": "/myreactwebsite/static/css/main.97fbb8dc.css.map",
-    "main.c6fdaae3.js.map": "/myreactwebsite/static/js/main.c6fdaae3.js.map"
+    "main.0f85774d.js.map": "/myreactwebsite/static/js/main.0f85774d.js.map"
   },
   "entrypoints": [
     "static/css/main.97fbb8dc.css",
-    "static/js/main.c6fdaae3.js"
+    "static/js/main.0f85774d.js"
   ]
 }
