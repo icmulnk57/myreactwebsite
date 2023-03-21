@@ -4,7 +4,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import Footer from "./Footer";
 
 
-import { BrowserRouter, Routes, Route,Navigate} from "react-router-dom";
+import { Routes, Route,} from "react-router-dom";
 import Home from "./Home";
 import About from "./About";
 import Service from "./Service";
@@ -14,8 +14,8 @@ const App = () => {
   return (
     <>
       <Navbar/>
-        <Routes>
-          <Route path="/" element={<Home/>} /> 
+        <Routes >
+          <Route exact path="/"  element={<Home/>} /> 
           <Route path="/about" element={<About/>} /> 
           <Route path="/service" element={<Service/>} /> 
           <Route path="/contact" element={<Contact/>} /> 

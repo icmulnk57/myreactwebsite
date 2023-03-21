@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg navbar-light bg-light ">
               <NavLink className="navbar-brand"  to="/" >
-                Techhy Aman
+                Techy Aman
               </NavLink>
               <button
                 className="navbar-toggler"
